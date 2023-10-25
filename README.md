@@ -15,11 +15,6 @@ This project is a QR code generator that uses an API to generate QR codes. The f
 - JavaScript: Used for handling user interactions and making API requests.
 - QR Code API: Utilized to generate QR codes based on user input.
 
-## Installation
-
-1. Clone the repository to your local machine.
-2. Open `index.html` in a web browser.
-
 ## Usage
 
 1. Enter the desired content for the QR code in the input field.
